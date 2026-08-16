@@ -5,7 +5,9 @@
 Today, I worked on a **Customer Segmentation analysis using SQL** and implemented the **RFM (Recency, Frequency, Monetary) model** to understand customer behavior.
 
 🔹 **Recency (R):** How recently did the customer purchase?
+
 🔹 **Frequency (F):** How frequently does the customer purchase?
+
 🔹 **Monetary (M):** How much does the customer spend?
 
 Using SQL, I calculated:
