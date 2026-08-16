@@ -22,6 +22,6 @@ This project helped me strengthen my skills in **CTEs, aggregate functions, date
 
 🚀 Continuing my journey in **SQL & Data Analytics**, one project at a time!
 
-#SQL #DataAnalytics #RFMAnalysis #CustomerSegmentation #MySQL #DataScience #Analytics #SQLProject #LearningJourney #LinkedInLearning
+
 
 <img width="1912" height="1076" alt="Screenshot 2026-08-16 173417" src="https://github.com/user-attachments/assets/8448bf3a-0c5e-4f9c-814f-8a66f2f8e9f6" />
